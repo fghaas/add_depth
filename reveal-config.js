@@ -11,6 +11,7 @@ Reveal.initialize({
 
     transition: 'fade',
 
+    totalTime: 30*60,
 
     menu: {
         themes: false,
