@@ -14,10 +14,10 @@ little makeshift easel, and I'll use the two sticks here to illustrate
 where I'm looking.
 
 So, if I now just look at this print like I normally would, my
-vergence and focus point sits right on the surface of the print. In
-other words, if I were to illustrate two straight lines from both my
-eyes toward the point I'm looking at, it would look like this. And
-that's what my eyes do naturally.
+vergence and accommodation point sits right on the surface of the
+print. In other words, if I were to illustrate two straight lines from
+both my eyes toward the point I'm looking at, it would look like
+this. And that's what my eyes do naturally.
 
 However, that's not to say that my eyes must converge on that spot, of
 course. They can converge anywhere. Right now I'm looking at the

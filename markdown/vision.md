@@ -82,14 +82,14 @@ you extremely cross-eyed and you won't be able to keep it for long
 before you feel discomfort.
 
 So vergence gives us the ability to point both our eyes at one spot in
-space. And then the other thing we need for depth vision is **focus,**
-which is our ability to stretch or relax the elastic lens in our eye
-(which sits right behind our pupil) in such a way that a specific
-point in space in front of our eyes produces a sharp image on our
-retina, in the back of our eye. And commonly, the focus point in space
-in front of us is also our vergence point, meaning we point our
-eyeballs at a specific point in space, and then we adjust our lens so
-the image of that point is also sharp.
+space. And then the other thing we need for depth vision is
+**accommodation,** which is our ability to stretch or relax the
+elastic lens in our eye (which sits right behind our pupil) in such a
+way that a specific point in space in front of our eyes produces a
+sharp image on our retina, in the back of our eye. And commonly, the
+accommodation point in space in front of us is also our vergence
+point, meaning we point our eyeballs at a specific point in space, and
+then we adjust our lens so the image of that point is also sharp.
 
 So what that means is that when we are looking at something, our eyes
 produce two images, which are pretty much exactly identical in one
