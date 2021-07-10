@@ -6,12 +6,12 @@ And, as you can imagine, there are multiple ways of doing that.
 For example, you could be using a stereoscopic lens that fits on your
 camera. Now the camera system that I prefer happens to the Micro Four
 Thirds system, and sure enough you can find a lens that just fits into
-such a camera, or any camera using that format.
+such a camera (only specific ones, though).
 
 ![Panasonic Lumix 12.5mm f/12 3D G Lens](FIXME)
 
 Now this is a discontinued product, but you can still buy it used on
-your favourite second-hand photography equipment web site, and you can
+your favourite second-hand photography equipment web site and you can
 use it just like any other prime lens with autofocus and auto-exposure
 and whatnot, and it'll create two stereoscopic images in one frame,
 but you'll quickly see its big flaw: its two lenses are extremely
@@ -22,7 +22,7 @@ space from which the images were taken --- is much less than the
 distance between your eyes.
 
 So the distance between your pupils is approximately 70 millimeters,
-and in this case the lens has a stereoscopic distance of maybe 20
+and in this case the lens has a stereoscopic distance of maybe 10
 millimeters. And what that means is your stereoscopic effect is a lot
 less pronounced, you get a lot less depth than you'd expect. So this
 sort of lens really makes sense to use only in combination with a
