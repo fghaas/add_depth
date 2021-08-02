@@ -1,3 +1,7 @@
+# Stereoscopic projection
+How we trick our brains into perceiving depth from two flat images
+
+<!-- Note -->
 OK so now that we know how "real" depth perception works, meaning how
 our eyes signal to our brains that an object is at a greater or a
 lesser distance from us, we can talk about how we can trick our brain
@@ -13,6 +17,11 @@ get to that in a jiffy.) Then, we need to talk about **stereoscopic
 projection:** making your left eye see *only* the left-eye image, and
 making the right eye see *only* the right-eye image.
 
+
+## The stereoscope
+A low-tech stereoscopic viewing device
+
+<!-- Note -->
 So let's start with something very low-tech: a stereoscopic viewer,
 or, simply, a stereoscope. I happen to have one here; let me swiftly
 explain how it works:
@@ -28,13 +37,18 @@ something important, namely this little black separator that ensures
 that your left eye can't peek over at the right-eye image, and the
 right eye can't catch a glimpse of the left-eye image.
 
-So this is a very simple and effective device that's been in use for
-stereoscopic viewing for a staggering nearly very-nearly-200 years!
-(It was invented by a chap named Charles Wheatstone in 1832; this
-device is a very modern interpretation using ABS plastic and whatnot,
-but it's still the same principle. Even a modern set of VR goggles is
-the same principle, except you've got a screen right in front of your
-eyes.)
+And here are a couple of others that follow very much the same
+principle, except that they are designed for larger images: here's one
+for viewing larger prints, and here's one for viewing stereo images on
+a large computer screen.
+
+So these are all very simple and effective devices that have been in
+use for stereoscopic viewing for a staggering nearly very-nearly-200
+years!  (It was invented by a chap named Charles Wheatstone in 1832;
+this device is a very modern interpretation using ABS plastic and
+whatnot, but it's still the same principle. Even a modern set of
+virtual reality goggles is the same principle, except you've got a
+screen right in front of each of your eyes.)
 
 But this kind of a device also has a flaw: it's not faring so greatly
 on the social aspect of art. Sure, you can pass the stereoscope around
@@ -42,6 +56,11 @@ within a small group and appreciate the pictures together, but you'd
 be hard pressed to actually do an exhibition with this, or anything
 that you're showing to a larger crowd.
 
+
+## Stereoscopic projectors
+Using polarised light to create depth 
+
+<!-- Note -->
 So in comes the next step in the evolution of stereoscopic viewing:
 the stereoscopic slide projector.
 
@@ -75,6 +94,11 @@ it's also OK for your audience to tilt or move their heads a bit and
 they'll retain the depth effect. That is the 3D projection technique
 that most cinemas use.
 
+
+## 3D TV
+Stereoscopic projection for home theatres
+
+<!-- Note -->
 And then there's the at-home equivalent of that, which is 3D TV,
 where you have alternating rows of pixels: one row of pixels emitting
 light that's polarised one way, next row of pixels emitting light
