@@ -1,15 +1,25 @@
+# Making stereograms
+
+<!-- Note -->
 So now that we've talked about how we *look at* stereograms so that we
 get a real 3D effect, let's talk about how we can *make* them.
 
 And, as you can imagine, there are multiple ways of doing that.
 
+
+## Stereoscopic lenses
+
+<!-- Note -->
 For example, you could be using a stereoscopic lens that fits on your
 camera. Now the camera system that I prefer happens to the Micro Four
 Thirds system, and sure enough you can find a lens that just fits into
 such a camera (only specific ones, though).
 
-![Panasonic Lumix 12.5mm f/12 3D G Lens](FIXME)
 
+![Panasonic Lumix 12.5mm f/12 3D G Lens](images/lumix_3d_g.png)  
+Panasonic Lumix 12.5mm f/12 3D G Lens (Panasonic)
+
+<!-- Note -->
 Now this is a discontinued product, but you can still buy it used on
 your favourite second-hand photography equipment web site and you can
 use it just like any other prime lens with autofocus and auto-exposure
@@ -29,12 +39,22 @@ sort of lens really makes sense to use only in combination with a
 macro ring for stereoscopic macro photography. But it's less useful
 for shooting, say, stereoscopic portraits.
 
+
+![Loreo 3D Lens In A Cap 9005B](images/loreo_9005b.png)  
+Loreo 3D Lens In A Cap 9005B (Loreo Asia Ltd.)
+
+<!-- Note -->
 Then, there is this device which is a manual lens --- meaning you need
 to pull focus --- but which produces a much more naturally
 stereoscopic image with a 90mm stereoscopic distance. That makes the
 image slightly **hyperstereoscopic,** meaning the depth effect is
 slightly more pronounced than it naturally would be.
 
+
+![Kúla Deeper lens attachment](images/kula_deeper.png)  
+Kúla Deeper (Kúla 3D Ltd)
+
+<!-- Note -->
 Up next are mirror lens attachments. Now be warned, this is where it
 gets really bulky, and what you can see here is a thing called the
 Kúla Deeper, made in Iceland. If anyone's watching from Iceland, hæ
@@ -60,6 +80,11 @@ it's not the ideal way to take stereo pictures. But if you do shoot
 with a big DSLR and want to get into stereo photography, let me know
 and I'll be happy to rehome this.
 
+
+## Gadget-free stereograms
+Creating stereograms with any regular camera
+
+<!-- Note -->
 But! I promised you at the beginning of the talk that we'd go low-tech
 here, and so I'm about to show you a stereo photography technique that
 works with literally any digital camera at all. A DSLR, a

@@ -1,3 +1,7 @@
+# Motion stereograms
+(aka 3D movies)
+
+<!-- Note -->
 OK and now, stereoscopic motion picture.
 
 I think it's probably self-evident that everything that I talked about
@@ -20,6 +24,11 @@ something like a pteranodon-sized creature soaring over the earth. But
 that would come with significant expense, not to mention the fact that
 you'd need a veritable airstrip to take off from and land.
 
+
+## Single-camera motion stereograms
+Making 3D videos with a single camera (without stereoscopic gear)
+
+<!-- Note -->
 But there's a way for you to get 3D footage with a *single*
 camera. One that's mounted on your drone, or in your car, or on your
 bicycle, wherever. Let me swiftly explain the principle.
@@ -33,6 +42,18 @@ Well once I add some sideways motion, relative to where my lens is
 pointed, you'll quickly realize that my left-eye view is simply the
 view my right eye had a moment ago.
 
+
+## Harnessing sideways motion
+How many frames distance between your left eye and right eye?
+
+
+50 fps = 20ms / frame
+
+1m/s lateral motion = 1mm/ms
+
+4 frames = 80 mm lateral motion
+
+<!-- Note -->
 Consider that our natural stereoscopic distance is just about 70
 millimeters. So if we're shooting video at 50 frames per second, every
 frame is one-fiftieth of a second, or 20 milliseconds in
@@ -43,6 +64,14 @@ motion. Thus, if we duplicate our stream and then offset one of them
 by 4 frames, we've achieved an effective stereoscopic distance of
 80mm.
 
+
+50 fps = 20ms / frame
+
+10m/s lateral motion = 10mm/ms
+
+1 frame = 200 mm lateral motion
+
+<!-- Note -->
 If instead we're doing a speed of 10 m/s, which you can totally
 achieve on a bicycle or a drone, then even a single-frame offset gives
 you a stereoscopic distance of 200mm, which makes the video solidly
@@ -53,6 +82,10 @@ linear drone flight along a roughly linear feature --- say a coastline
 ---, or in orbital flight around an object, ideally one where you're
 orbiting above the object and your camera is tilted downward. 
 
+
+## Raw drone footage 
+
+<!-- Note -->
 So, what I have here is a drone flight sequence shot at FIXME frames
 per second with the camera pointing forwards and the drone flying
 sideways, to the right at about FIXME m/s. Or put differently, the
@@ -67,6 +100,11 @@ pointed directly sideways. And this means that every FIXME frames the
 camera is laterally displaced one metre, which is a nice
 hyperstereoscopic distance to work with for this panoramic shot.
 
+
+## Open in Shotcut
+<https://shotcut.org/>
+
+<!-- Note -->
 So I open this in my favourite video editor, which happens to be
 Shotcut. Now one thing I'll have to consider here is that for a still
 stereogram, I have a great degree of flexibility as to the aspect
@@ -77,6 +115,12 @@ use a mat and a frame of my choosing to hang it. But for a
 stereoscopic video, I'm usually locked to the standard 16:9 screen
 size.
 
+
+## Crop to 8:9 aspect ratio
+Duplicate stream so two copies can fit into 16:9,  
+side by side
+
+<!-- Note -->
 So that means what I'll normally do is select an 8:9 crop of the
 original video, and work with that. And in a linear-flight or
 orbital-flight sequence that's not a problem because by definition the
@@ -91,12 +135,21 @@ And now it's decision time again: do we want to make a *wall-eyed*,
 or a *cross-eyed* video? Because that determines what offset we'll
 use for the right-hand copy of the clip.
 
+
+## Offset one stream
+Use exactly the offset calculated from your known lateral velocity 
+
+<!-- Note -->
 Remember, we're flying to the right, so if we're making a wall-eyed
 clip we want the left-eye view to run behind by a jiffy. That's
 because the left eye is where the right eye *was* a fraction of a
 second ago. So in that case, we'd offset the right clip to run FIXME
 milliseconds (or FIXME frames) *earlier* than the left-eye view.
 
+
+## Clip video and render
+
+<!-- Note -->
 So that's what I'm doing here. And when I'm done with that, of course
 this means that the whole video now needs to be cut so that I actually
 have footage to show throughout -- both on the left and the right. And

@@ -1,3 +1,7 @@
+# Stereograms with the GIMP
+A few easy steps toward 3D images
+
+<!-- Note -->
 All right, now. We've got two images, how do we turn them into a
 stereogram?
 
@@ -6,6 +10,11 @@ source software. And I'll show you how.
 
 Enter the GIMP.
 
+
+## Open images as layers
+Name layers according to what side they are
+
+<!-- Note -->
 Here, I'm opening the first of my images in the GNU Image Manipulation
 Program, and I'll swiftly add my second image, using GIMP's *Open as
 Layers* option. What that gives me is an image that consists of two
@@ -16,6 +25,11 @@ which GIMP defaults to calling *Background* -- as *left eye*, because
 it corresponds to my left-eye image. And conversely, the second
 image's layer shall be named *right eye*.
 
+
+## Align layers
+Reduce top layer opacity, then move layer to align
+
+<!-- Note -->
 So, the first thing I need to do is align these two images on my
 selected centre of attention, which as you'll recall is the church
 steeple. So what I'm doing first is I'm reducing my *right eye*
@@ -38,6 +52,11 @@ use *Layer → Transform → Arbitrary rotation.*
 Now when I'm done with the rotation tweaks I can perhaps nudge the
 layer one more time so that it's perfectly aligned again.
 
+
+## Crop image
+Rectangle select, then crop to selection
+
+<!-- Note -->
 And now, I can do a simple rectangle select to select the portion of the
 image where I have content in both layers, exactly as they are
 positioned and rotated now. And then I do *Image → Crop to selection.*
@@ -49,6 +68,11 @@ And if I want a specific aspect ratio in my image, I can still tweak
 this so that the image is exactly 4 by 3, or 3 by 2, or whatever
 aspect ratio I want.
 
+
+## Move top layer
+Create wall-eyed or cross-eyed stereogram
+
+<!-- Note -->
 And before I proceed I now reset the opacity of my top layer, the
 *right eye* layer, to 100% so that it's fully opaque again.
 
@@ -71,10 +95,20 @@ obviously what I want. So I move this *right-eye* layer horizontally
 to the right. And I'm intentionally leaving a small gap between the
 edges of the layers here; I'll explain why in a second.
 
+
+## Resize canvas
+Expand canvas to accommodate both layers
+
+<!-- Note -->
 Now obviously I've dragged my *right eye* layer off the canvas, so to
 fix that I do *Image → Fit Canvas to Layers,* and now my canvas has
 room for both layers, now side by side.
 
+
+## Add new background layer
+Create uniform background for natural framing
+
+<!-- Note -->
 And now I'll do one other thing, namely add a new, one-colour layer
 that I send into the background. I normally use white here, but you
 can use any colour you find pleasing --- and in this special case,
