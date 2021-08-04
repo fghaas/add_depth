@@ -12,6 +12,14 @@ body:after {
   right: 2em;
 }
 
+.reveal {
+  text-shadow: 1px 1px 0 black;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  text-shadow: 1px 1px 0 black;
+}
+
 .reveal .hidden {
   display: none;
 }
