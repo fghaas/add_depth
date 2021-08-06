@@ -1,3 +1,5 @@
+# Stereopsis and depth perception <!-- .element class="hidden" -->
+
 ### A note on accessibility
 
 <!-- Note --> 
@@ -19,7 +21,7 @@ contains suggestions about how to *make* them, which you can totally
 do even if you are making them for someone else.
 
 
-# Stereopsis
+## Stereopsis
 How stereoscopic vision works
 
 <!-- Note --> 
@@ -75,7 +77,7 @@ remember that we could ever *not* do it, we acquire the faculty of
 **vergence.**
 
 
-# Vergence
+## Vergence
 The ability to make the axes of our eyes intersect at a certain point
 in space, at will
 
@@ -100,7 +102,7 @@ their nose, even though that'll make you extremely cross-eyed and you
 won't be able to keep it for long before you feel discomfort.
 
 
-# Accommodation
+## Accommodation
 The ability to make both our eyes focus on one point in space in front
 of us, using our elastic lens
 
@@ -116,7 +118,7 @@ point, meaning we point our eyeballs at a specific point in space, and
 then we adjust our lens so the image of that point is also sharp.
 
 
-# Binocular disparity
+## Binocular disparity
 The small differences in optical inputs received from either eye
 
 <!-- Note --> 
