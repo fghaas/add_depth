@@ -22,7 +22,7 @@ has a GoPro embedded in each wing, which would result in seriously
 hyperstereoscopic images and would give you the impression of being
 something like a pteranodon-sized creature soaring over the earth. But
 that would come with significant expense, not to mention the fact that
-you'd need a veritable airstrip to take off from and land.
+you'd need a veritable airstrip to take off from and land on.
 
 
 ## Single-camera motion stereograms
@@ -41,6 +41,9 @@ right-eye view. Now where's my corresponding left-eye view?
 Well once I add some sideways motion, relative to where my lens is
 pointed, you'll quickly realize that my left-eye view is simply the
 view my right eye had a moment ago.
+
+And we can harness that in video post-production to create a 3D video
+from a 2D video that includes constant lateral motion.
 
 
 ## Harnessing sideways motion
@@ -69,13 +72,16 @@ by 4 frames, we've achieved an effective stereoscopic distance of
 
 10m/s lateral motion = 10mm/ms
 
-1 frame = 200 mm lateral motion
+1 frames = 200 mm lateral motion
+
+5 frames = 1 m lateral motion
 
 <!-- Note -->
 If instead we're doing a speed of 10 m/s, which you can totally
 achieve on a bicycle or a drone, then even a single-frame offset gives
 you a stereoscopic distance of 200mm, which makes the video solidly
-hyperstereoscopic.
+hyperstereoscopic. Use a 5-frame offset and you get a nice "giant
+eye's view" with a one-metre stereo distance.
 
 And this becomes especially interesting when you're doing either
 linear drone flight along a roughly linear feature --- say a coastline
@@ -86,17 +92,17 @@ orbiting above the object and your camera is tilted downward.
 ## Raw drone footage 
 
 <!-- Note -->
-So, what I have here is a drone flight sequence shot at FIXME frames
+So, what I have here is a drone flight sequence shot at 30 frames
 per second with the camera pointing forwards and the drone flying
-sideways, to the right at about FIXME m/s. Or put differently, the
-drone is flying forwards at FIXME m/s and the camera is pointed 90
+sideways, to the right at about 40 km/h or 11.1 m/s. Or put differently, the
+drone is flying forwards at 11.1 m/s and the camera is pointed 90
 degrees to the left, which is exactly the same thing. Note that the
 camera wouldn't have to be pointed at a 90-degree angle to the
 heading of flight. We could also be pointing the camera directly
 shoreward, and then fly at the beach at a 45-degree angle. What matters is
 that we have *some* lateral motion, and that we're able to quantify it
 which saves us some guesswork. In this case though, we have the camera
-pointed directly sideways. And this means that every FIXME frames the
+pointed directly sideways. And this means that every 2.7 frames the
 camera is laterally displaced one metre, which is a nice
 hyperstereoscopic distance to work with for this panoramic shot.
 
@@ -140,11 +146,11 @@ use for the right-hand copy of the clip.
 Use exactly the offset calculated from your known lateral velocity 
 
 <!-- Note -->
-Remember, we're flying to the right, so if we're making a wall-eyed
+Remember, we're flying to the right, so if we're making a cross-eyed
 clip we want the left-eye view to run behind by a jiffy. That's
 because the left eye is where the right eye *was* a fraction of a
-second ago. So in that case, we'd offset the right clip to run FIXME
-milliseconds (or FIXME frames) *earlier* than the left-eye view.
+second ago. So in that case, we'd offset the right clip to run 90
+milliseconds *earlier* than the left-eye view.
 
 
 ## Clip video and render
@@ -162,7 +168,7 @@ wall-eyed stereo clip of the sequence.
 And for a cross-eyed clip we still want the left **eye** view to run
 behind by a little, it's just that the left-eye view is now on the
 *right*, which means we now need to offset the clip on the right to
-run FIXME milliseconds (or FIXME frames) *later* than the right-eye
+run 90 milliseconds (or FIXME frames) *later* than the right-eye
 view (which is is now on the left).
 
 Other than that, it's exactly the same procedure. Crop, offset, cut,
