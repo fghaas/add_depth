@@ -12,3 +12,6 @@ close out the talk.
 If you'd like to find out more, my Twitter handle is all over this
 talk; feel free to get in touch. Have fun with all your new stereo
 images and videos, good luck!
+
+
+Special thanks to **Adolfo Brandes** for the drone footage.
