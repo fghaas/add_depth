@@ -1,3 +1,19 @@
+## Freeviewing intro <!-- .element class="hidden" -->
+
+<!-- Note -->
+So what if instead we could employ a technique that requires none of
+that. No special projection equipment, no goggles, no nothing. Where
+you could literally hang your stereophotography in a gallery, and
+visitors could stroll through and look at your images and see them in
+full depth. Or you could make a picture book. Or you could send 3D
+images to a friend on your phone, and they wouldn't need an app to
+view it.
+
+And of course such a technique totally does exist, and we're going to
+focus on it for the rest of this talk. It's called **freeviewing,**
+and it comes in two flavours.
+
+
 # Freeviewing
 Perceiving depth in stereoscopic images without tools or gadgets
 
@@ -45,6 +61,11 @@ image, and my right eye is looking at the right image. And what I
 actually see now is **one** image that overlaps, is made from both
 these source images, and, magically, has depth.
 
+
+<!-- .slide: data-background-image="https://live.staticflickr.com/65535/51819527905_3e6600d79f_5k_d.jpg" data-background-size="contain" data-timing="120" -->
+## Wall-eyed freeviewing example <!-- .element class="hidden" -->
+
+<!-- Note -->
 Now you can try that with the image that's on your screen right
 now. Now I don't know if you're watching this on a full size monitor,
 or a laptop screen, or a big-screen TV, or your phone, so you may have
@@ -96,6 +117,12 @@ eyes settle back toward normal. And chances are that the stimulus that
 your brain produces when the images suddenly click into place and you
 see depth is so strong that your eyes don't want to go back to where
 they were.
+
+
+<!-- .slide: data-background-image="https://live.staticflickr.com/65535/51819527905_3e6600d79f_5k_d.jpg" data-background-size="contain" data-timing="120" -->
+## Cross-eyed freeviewing example <!-- .element class="hidden" -->
+
+<!-- Note -->
 
 So do try that with the image that's on your screen now, and do feel
 free to pause the playback and try it a few times until you get the

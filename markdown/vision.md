@@ -2,14 +2,22 @@
 
 ### A note on accessibility
 
-<!-- Note --> 
-I'll have to start with an important accessibility note here. Some of
-this talk assumes that you have functional vision in both eyes. You
-will of course be able to see the images and examples in this talk
-if you need corrective lenses — *I* certainly need to wear them too —
-but if you happen to have very bad vision or blindness in one eye then
-by the nature of this very topic you won't be able to follow some of
-the examples, and I do apologize for that.
+<!-- Note -->
+I’d like to start this talk with an important note on
+accessibility. Some of this talk assumes that you have functional
+vision in both eyes. You will of course be able to see the images and
+examples in this talk if you need corrective lenses — *I* certainly
+need to wear them too — but if you happen to have very bad vision or
+blindness in one eye then by the nature of this very topic you won't
+be able to follow some of the examples, and I do apologize for that.
+
+There is also a specific condition called *stereo blindness*, which
+means that even though both eyes are otherwise functional, you are
+unable to perceive depth. If you have that condition, this talk may
+still be informative — stereoblind people have watched this talk and
+subsequently told me that took away quite a bit from from it — it may
+just not be as *immersive* as it might be for people with stereo
+vision.
 
 Likewise if you happen to have nystagnus or strabismus, similar
 limitations might apply, and possibly also if you are using an
@@ -56,6 +64,11 @@ chance of detecting a predator early, even while in the vulnerable
 circumstance of foraging, and thereby getting away from them as
 quickly as possible.
 
+
+## Human vision
+Why, and how, are we stereoptic?
+
+<!-- Note --> 
 We humans are omnivores and predators and we have evolved to sense
 depth, which greatly helps us in hunting, particularly since we've
 also evolved brains that enable us to make tools. If we make a spear,
@@ -129,11 +142,7 @@ called **binocular disparity.**
 
 And through what must be an inordinate amount of trial and error in
 our infancy, our brain learns to interpret these disparities between
-the two optical inputs as cues about depth: if an object in our field
-of view is at nearly the same spot in both eye-images then it's
-comparatively far away. And if the difference between the two eye
-inputs for an object is comparatively large, then the object is
-relatively close by.
+the two optical inputs as cues about depth.
 
 And it's by these differences that our brain essentially builds a
 depth-map of our surroundings.
