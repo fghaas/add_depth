@@ -18,6 +18,7 @@ Reveal.initialize({
 
     transition: 'none',
 
+    totalTime: 43*60,
 
     menu: {
         themes: true,
