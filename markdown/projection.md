@@ -21,7 +21,7 @@ making the right eye see *only* the right-eye image.
 ## The stereoscope
 A low-tech stereoscopic viewing device
 
-<!-- Note -->
+<!-- Note --> 
 So let's start with something very low-tech: a stereoscopic viewer,
 or, simply, a stereoscope. I happen to have one here; let me swiftly
 explain how it works:
@@ -57,10 +57,13 @@ be hard pressed to actually do an exhibition with this, or anything
 that you're showing to a larger crowd.
 
 
+<!-- .slide: data-timing="10" -->
 ## Stereoscopic projectors
 Using polarised light to create depth 
 
 <!-- Note -->
+*These notes were skipped over in the talk.*
+
 So in comes the next step in the evolution of stereoscopic viewing:
 the stereoscopic slide projector.
 
@@ -95,10 +98,13 @@ they'll retain the depth effect. That is the 3D projection technique
 that most cinemas use.
 
 
+<!-- .slide: data-timing="10" -->
 ## 3D TV
 Stereoscopic projection for home theatres
 
 <!-- Note -->
+*These notes were skipped over in the talk.*
+
 And then there's the at-home equivalent of that, which is 3D TV,
 where you have alternating rows of pixels: one row of pixels emitting
 light that's polarised one way, next row of pixels emitting light

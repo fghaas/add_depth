@@ -101,28 +101,17 @@ we want to select something in the shot that can naturally attract the
 viewer's attention. Something that their eyes would be naturally drawn
 to. And we want to put that somewhere near the centre of the frame.
 
-So what I want to do here is take a panoramic image of this town
-that's near where I live. And from my vantage point here there is one
-thing that clearly sticks out and that is the church steeple. So what
-I'll want to do is put that church steeple somewhere near the centre
-of my frame. And now what I'll do is this:
+So what I want to do here is take a stereoscopic image of this little
+garden ornament. And now what I'll do is this:
 
 * I'll hold my camera up in both hands, and frame the shot with the
-  church steeple in the centre.
+  ornament in the centre.
 * Then I'll put all my weight on my left leg and take my first image.
-* And then I shift my weight over to my right leg, centre the church
-  steeple again, and take my second image.
+* And then I shift my weight over to my right leg, centre the ornament
+  again, and take my second image.
 
 And that produces two images with a stereoscopic distance of about my
-shoulder width, so that's pretty heftily hyperstereoscopic already.
-
-And then just for the fun of it I'll take another couple of images
-that are super duper ultra hyper stereoscopic, by actually
-side-stepping a couple of paces between shots. Like this:
-
-* Frame and center and snap
-* Shuffle shuffle shuffle
-* Frame and center and snap
+shoulder width.
 
 And now we've got two base images to work with; let's see how we turn
 them into real stereograms.
