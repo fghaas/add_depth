@@ -93,14 +93,11 @@ won't work for action or candid shots, but your can make absolutely
 stunning 3D views of buildings, parks, statues, sculptures, landscapes
 and even posed portraits with this.
 
-So! What do we do. First, as in any and all photography, we pick a
-shot and a frame. Now we're working with digital here, we can of
-course crop and straighten and rotate in post-production, that's
-easy. But there's one thing we will want to do as we take the picture:
-we want to select something in the shot that can naturally attract the
-viewer's attention. Something that their eyes would be naturally drawn
-to. And we want to put that somewhere near the centre of the frame.
 
+<!-- .slide: data-background-iframe="https://www.youtube.com/embed/eP7VyqeZv38?enablejsapi=1&modestbranding=1&rel=0&loop=1&playlist=eP7VyqeZv38" data-autoplay -->
+## Gadget-free stereograms photography demo <!-- .element class="hidden" -->
+
+<!-- Note -->
 So what I want to do here is take a stereoscopic image of this little
 garden ornament. And now what I'll do is this:
 
@@ -112,6 +109,14 @@ garden ornament. And now what I'll do is this:
 
 And that produces two images with a stereoscopic distance of about my
 shoulder width.
+
+
+<!-- .slide: data-background-iframe="https://www.youtube.com/embed/nVvdff8iFSI?enablejsapi=1&modestbranding=1&rel=0&loop=1&playlist=nVvdff8iFSI" data-autoplay data-timing="20" -->
+## Gadget-free stereograms photography screencast <!-- .element class="hidden" -->
+
+<!-- Note -->
+And here’s what this looks like from my phone, using the Android Open
+Camera app.
 
 And now we've got two base images to work with; let's see how we turn
 them into real stereograms.
