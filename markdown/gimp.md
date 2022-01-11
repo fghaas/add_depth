@@ -79,7 +79,7 @@ identical width as the one in the centre, but in my opinion that's
 entirely optional.
 
 
-<!-- .slide: data-background-images="images/ornament.jpg" data-autoplay data-timing="60" -->
+<!-- .slide: data-background-image="images/ornament.jpg" data-timing="60" data-background-size="contain" -->
 ## GIMP result <!-- .element class="hidden" -->
 
 <!-- Note -->

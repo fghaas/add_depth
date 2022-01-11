@@ -108,7 +108,7 @@ camera is laterally displaced one metre, which is a nice
 hyperstereoscopic distance to work with for this panoramic shot.
 
 
-<!-- .slide: data-background-iframe="https://www.youtube.com/embed/4wk5koQh2SI?enablejsapi=1&modestbranding=1&rel=0&loop=1&playlist=4wk5koQh2SI" data-autoplay data-timing="420" -->
+<!-- .slide: data-background-iframe="https://www.youtube.com/embed/RmcPmzyezO8?enablejsapi=1&modestbranding=1&rel=0&loop=1&playlist=RmcPmzyezO8" data-autoplay data-timing="320" -->
 ## Edit in Shotcut <!-- .element class="hidden" -->
 
 <!-- Note -->
