@@ -1,3 +1,4 @@
+<!-- .slide: data-timing="10" -->
 # Conclusion <!-- .element class="hidden" -->
 
 <!-- Note --> 
