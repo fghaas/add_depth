@@ -14,6 +14,7 @@ Source: own post on Reddit,
 
 
 <!-- .slide: data-background-image="https://i.redd.it/4hxler19hbk71.jpg" data-background-size="contain" data-timing="30" data-autoslide="30000" -->
+## Liebenberg monument  <!-- .element class="hidden" -->
 
 <!-- Note -->
 This is the Liebenberg monument on Mölkerbastei in Vienna; the house
@@ -24,12 +25,16 @@ Source: own post on Reddit,
 
 
 <!-- .slide: data-background-image="https://live.staticflickr.com/65535/48843577427_fa79f72a60_o_d.jpg" data-background-size="contain" data-timing="30" data-autoslide="30000" -->
+## Vasa museum <!-- .element class="hidden" -->
 
 <!-- Note -->
 And here's a shot from the Vasa museum in Stockholm; this is the
 transom of Vasa, a glorious warship that sank on her maiden voyage in
 1628 without ever making it into open water.
 
+
+<!-- .slide: data-timing="10" -->
+## Twitter handle <!-- .element class="hidden" -->
 
 [@xahteiwi](https://twitter.com/xahteiwi)
 
@@ -38,5 +43,8 @@ If you'd like to find out more, my Twitter handle is all over this
 talk; feel free to get in touch. Have fun with all your new stereo
 images and videos, good luck!
 
+
+<!-- .slide: data-timing="5" -->
+## Thanks to Adolfo <!-- .element class="hidden" -->
 
 Special thanks to **Adolfo Brandes** for the drone footage.
