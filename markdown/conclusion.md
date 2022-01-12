@@ -1,4 +1,3 @@
-<!-- .slide: data-background-image="https://i.redd.it/x0uctj49fcm71.jpg" data-background-size="contain" data-timing="30" data-autoslide="30000" -->
 # Conclusion <!-- .element class="hidden" -->
 
 <!-- Note --> 
@@ -6,6 +5,14 @@ And with this, I hope I've piqued your curiosity for stereoscopic
 photography a little bit; I have a few more stereo images here to
 close out the talk.
 
+For those of you who have now mastered the art of cross-eyed
+freeviewing, these will be a breeze.
+
+
+<!-- .slide: data-background-image="https://i.redd.it/x0uctj49fcm71.jpg" data-background-size="contain" data-timing="30" data-autoslide="30000" -->
+## Carnuntum  <!-- .element class="hidden" -->
+
+<!-- Note -->
 This is a shot of reconstructed Roman baths in what used to be the
 capital of the province of Pannonia, in Carnuntum.
 
@@ -31,6 +38,8 @@ Source: own post on Reddit,
 And here's a shot from the Vasa museum in Stockholm; this is the
 transom of Vasa, a glorious warship that sank on her maiden voyage in
 1628 without ever making it into open water.
+
+Source: own image on Flickr.
 
 
 <!-- .slide: data-timing="10" -->
