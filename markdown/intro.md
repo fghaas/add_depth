@@ -1,3 +1,4 @@
+<!-- .slide: data-timing="10" -->
 # Add depth!
 Stereoscopic imagery for everyone
 

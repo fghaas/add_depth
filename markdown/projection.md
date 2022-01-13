@@ -2,6 +2,11 @@
 How we trick our brains into perceiving depth from two flat images
 
 <!-- Note -->
+> *Note: this is very different from **stereographic** projection,
+> which is [a concept in
+> geometry](https://en.wikipedia.org/wiki/Stereographic_projection)
+> dealing with projecting a sphere onto a plane.*
+
 OK so now that we know how "real" depth perception works, meaning how
 our eyes signal to our brains that an object is at a greater or a
 lesser distance from us, we can talk about how we can trick our brain
@@ -43,12 +48,12 @@ for viewing larger prints, and here's one for viewing stereo images on
 a large computer screen.
 
 So these are all very simple and effective devices that have been in
-use for stereoscopic viewing for a staggering nearly very-nearly-200
-years!  (It was invented by a chap named Charles Wheatstone in 1832;
-this device is a very modern interpretation using ABS plastic and
-whatnot, but it's still the same principle. Even a modern set of
-virtual reality goggles is the same principle, except you've got a
-screen right in front of each of your eyes.)
+use for stereoscopic viewing for a staggering nearly 180 years! (This
+is a “Brewster-type” lenticular stereoscope which was popularised by
+David Brewster in 1849.) This device is a very modern interpretation
+using ABS plastic and whatnot, but it's still the same principle. Even
+a modern set of virtual reality goggles is the same principle, except
+you've got a screen right in front of each of your eyes.)
 
 But this kind of a device also has a flaw: it's not faring so greatly
 on the social aspect of art. Sure, you can pass the stereoscope around
@@ -57,13 +62,10 @@ be hard pressed to actually do an exhibition with this, or anything
 that you're showing to a larger crowd.
 
 
-<!-- .slide: data-timing="10" -->
 ## Stereoscopic projectors
 Using polarised light to create depth 
 
 <!-- Note -->
-*These notes were skipped over in the talk.*
-
 So in comes the next step in the evolution of stereoscopic viewing:
 the stereoscopic slide projector.
 
@@ -85,6 +87,8 @@ all light coming from the left projector from entering your right
 eye. Net result: your left eye only sees a left image, your right eye
 only sees a right image, voila, 3D vision.
 
+The same principle can be applied to digital projectors.
+
 In *reality,* it's a wee bit more complicated, such as the fact that
 when you do things this way your audience must keep their heads level
 all the time: once they tilt their head, some of the left-eye image
@@ -98,35 +102,21 @@ they'll retain the depth effect. That is the 3D projection technique
 that most cinemas use.
 
 
-<!-- .slide: data-timing="10" -->
 ## 3D TV
-Stereoscopic projection for home theatres
+Stereoscopic projection for flat screens
 
 <!-- Note -->
-*These notes were skipped over in the talk.*
-
 And then there's the at-home equivalent of that, which is 3D TV,
 where you have alternating rows of pixels: one row of pixels emitting
 light that's polarised one way, next row of pixels emitting light
-polarised the other way, you wear goggles, and effectively each of
+polarised the other way. You wear goggles, and effectively each of
 your eyes sees a picture at half the nominal vertical resolution, and
 your brain again pieces those eye inputs together for a 3-dimensional
 depth effect.
 
-But of course, that too has a downside: it's pretty involved on the
-technology and logistics side. You might need projectors, you might
-need a silver screen (so as not to mess up the polarisation on
-reflection), your audience needs goggles, the works. This is all very
-much non-trivial.
-
-So what if instead we could employ a technique that requires none of
-that. No special projection equipment, no goggles, no nothing. Where
-you could literally hang your stereophotography in a gallery, and
-visitors could stroll through and look at your images and see them in
-full depth. Or you could make a picture book. Or you could send 3D
-images to a friend on your phone, and they wouldn't need an app to
-view it.
-
-And of course such a technique totally does exist, and we're going to
-focus on it for the rest of this talk. It's called **freeviewing,**
-and it comes in two flavours.
+But of course, just as with polarized-light projectors, this too has a
+downside: it's pretty involved on the technology and logistics
+side. You might need projectors, you might need a silver screen (so as
+not to mess up the polarisation on reflection) or a big-screen TV,
+your audience needs goggles, the works. This is all very much
+non-trivial.

@@ -64,6 +64,11 @@ chance of detecting a predator early, even while in the vulnerable
 circumstance of foraging, and thereby getting away from them as
 quickly as possible.
 
+
+## Human vision
+Why, and how, are we stereoptic?
+
+<!-- Note --> 
 We humans are omnivores and predators and we have evolved to sense
 depth, which greatly helps us in hunting, particularly since we've
 also evolved brains that enable us to make tools. If we make a spear,
