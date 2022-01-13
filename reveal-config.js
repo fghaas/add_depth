@@ -9,14 +9,14 @@ Reveal.initialize({
     ],
 
 
-    controls: false,
+    controls: true,
 
     progress: true,
     history: true,
     center: true,
-    showNotes: false,
+    showNotes: true,
 
-    transition: 'none',
+    transition: 'fade',
 
 
     menu: {
