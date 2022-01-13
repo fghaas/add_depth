@@ -15,7 +15,7 @@ freeviewing, these will be a breeze.
 
 <!-- Note -->
 This is a shot of reconstructed Roman baths in what used to be the
-capital of the province of Pannonia, in Carnuntum.
+capital of the province of Pannonia Superior, in Carnuntum.
 
 Source: own post on Reddit,
 <https://www.reddit.com/r/CrossView/comments/pkj42x/reconstructed_baths_in_the_ancient_capital_of_the/>
@@ -40,7 +40,10 @@ And here's a shot from the Vasa museum in Stockholm; this is the
 transom of Vasa, a glorious warship that sank on her maiden voyage in
 1628 without ever making it into open water.
 
-Source: own image on Flickr.
+Source: own image on Flickr, https://flic.kr/p/2hq96Ti
+
+More cross-view stereoscopic images of mine are in [this
+album](https://flickr.com/photos/77872933@N02/albums/72157711193718488).
 
 
 <!-- .slide: data-timing="10" -->
