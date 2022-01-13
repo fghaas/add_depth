@@ -5,7 +5,8 @@ An introduction to stereoscopic (3D) photography and videography
 
 * * *
 
-Presented by Florian Haas at FrOSCon 2021 Cloud Edition, 2021-08-22
+Presented by Florian Haas at FrOSCon 2021 Cloud Edition, 2021-08-22,
+and at linux.conf.au 2022, 2021-01-15.
 
 Rendered slides from this presentation are at <https://fghaas.github.io/add_depth>.
 

@@ -52,9 +52,9 @@ How many frames distance between your left eye and right eye?
 
 50 fps = 20ms / frame
 
-1m/s lateral motion = 1mm/ms
+1m/s lateral motion = 1mm/ms <!-- .element class="fragment" -->
 
-4 frames = 80 mm lateral motion
+4 frames = 80 mm lateral motion <!-- .element class="fragment" -->
 
 <!-- Note -->
 Consider that our natural stereoscopic distance is just about 70
@@ -70,11 +70,11 @@ by 4 frames, we've achieved an effective stereoscopic distance of
 
 50 fps = 20ms / frame
 
-10m/s lateral motion = 10mm/ms
+10m/s lateral motion = 10mm/ms <!-- .element class="fragment" -->
 
-1 frames = 200 mm lateral motion
+1 frames = 200 mm lateral motion <!-- .element class="fragment" -->
 
-5 frames = 1 m lateral motion
+5 frames = 1 m lateral motion <!-- .element class="fragment" -->
 
 <!-- Note -->
 If instead we're doing a speed of 10 m/s, which you can totally
@@ -89,7 +89,8 @@ linear drone flight along a roughly linear feature --- say a coastline
 orbiting above the object and your camera is tilted downward. 
 
 
-## Raw drone footage 
+<!-- .slide: data-background-iframe="https://www.youtube.com/embed/s_zxsEnbEZI?enablejsapi=1&modestbranding=1&rel=0&loop=1&playlist=s_zxsEnbEZI" data-autoplay -->
+## Raw drone footage <!-- .element class="hidden" -->
 
 <!-- Note -->
 So, what I have here is a drone flight sequence shot at 30 frames
@@ -102,77 +103,64 @@ heading of flight. We could also be pointing the camera directly
 shoreward, and then fly at the beach at a 45-degree angle. What matters is
 that we have *some* lateral motion, and that we're able to quantify it
 which saves us some guesswork. In this case though, we have the camera
-pointed directly sideways. And this means that every 2.7 frames the
+pointed directly sideways. And this means that every 90ms the
 camera is laterally displaced one metre, which is a nice
 hyperstereoscopic distance to work with for this panoramic shot.
 
 
-## Open in Shotcut
-<https://shotcut.org/>
+<!-- .slide: data-background-iframe="https://www.youtube.com/embed/RmcPmzyezO8?enablejsapi=1&modestbranding=1&rel=0&loop=1&playlist=RmcPmzyezO8" data-autoplay data-timing="320" -->
+## Edit in Shotcut <!-- .element class="hidden" -->
 
 <!-- Note -->
 So I open this in my favourite video editor, which happens to be
-Shotcut. Now one thing I'll have to consider here is that for a still
-stereogram, I have a great degree of flexibility as to the aspect
-ratio. I can, for example, make an 8:3 stereogram from two 4:3 images,
-and then put them into a landscape photobook. Or I can make a
-stereogram that has a completely arbitrary aspect ratio, and then I
-use a mat and a frame of my choosing to hang it. But for a
-stereoscopic video, I'm usually locked to the standard 16:9 screen
-size.
+[Shotcut](https://shotcut.org/). Owed to a UI quirk in Shotcut I
+actually need to open this twice, so that's why there's two entries of
+the same video in the playlist, don't worry about that right now.
 
+So the first thing I'm doing here is add a video track for the *Left*
+eye image. Note that since we're making a cross-view video this image
+will actually end up on the right. I'm pulling this clip down into the
+track, and then I'll apply two filters:
 
-## Crop to 8:9 aspect ratio
-Duplicate stream so two copies can fit into 16:9,  
-side by side
+* The first one is a rectangular crop filter. What I want to do is
+  select the middle of the shot, that is half the width of the image,
+  but taken not from either side, but from the middle. So my *size* of
+  that crop will be 1352 by 1520 (so half of the original width of
+  2704), and I'll offset the crop by 676 (that's one-quarter of 2704).
+* The second one is a position filter, which moves the cropped frame
+  676 pixels to the *right*, so that it ends up aligned with the right
+  frame border.
 
-<!-- Note -->
-So that means what I'll normally do is select an 8:9 crop of the
-original video, and work with that. And in a linear-flight or
-orbital-flight sequence that's not a problem because by definition the
-drone flies through the breadth of the image anyway.
+Remember this is a cross-view view in the making, so the image for
+the left eye needs to go to the right.
 
-So here we go, first I crop my video to an 8:9 aspect ratio. Next I'll
-take one copy of the original stream and align it to the right edge of
-the video frame. Then I'll take the exact same cropped copy, and
-insert it again, this time to the left edge of the video frame.
+Now we'll add the *Right* video track, with the second playlist entry
+(which, again, is the exact same video that we previously used).
 
-And now it's decision time again: do we want to make a *wall-eyed*,
-or a *cross-eyed* video? Because that determines what offset we'll
-use for the right-hand copy of the clip.
+* The crop filter now is exactly the same as the one we had before.
+* The position filter now moves the cropped frame -676 pixels to the
+  *left*, so that it ends up aligned with the left frame border.
 
+And we finally need to fix this odd little black overlap by changing
+the *Blend Mode* to *Add*. That's how we get the two images side by
+side.
 
-## Offset one stream
-Use exactly the offset calculated from your known lateral velocity 
+And now comes the little magic trick: we now move one of our clips by
+a small offset. 90 milliseconds, to be precise. So we align the
+playhead for that, and shift the video on the *Left* track by
+just that amount.
 
-<!-- Note -->
-Remember, we're flying to the right, so if we're making a cross-eyed
-clip we want the left-eye view to run behind by a jiffy. That's
-because the left eye is where the right eye *was* a fraction of a
-second ago. So in that case, we'd offset the right clip to run 90
-milliseconds *earlier* than the left-eye view.
-
-
-## Clip video and render
-
-<!-- Note -->
-So that's what I'm doing here. And when I'm done with that, of course
-this means that the whole video now needs to be cut so that I actually
-have footage to show throughout -- both on the left and the right. And
-that's easily done by splitting the whole clip at the playhead here
-and here, and then discarding the bits that I no longer need.
+And finally we trim the rest of the video, with *Split at Playhead* at
+either end, and trimming the overhang. Then we shift everything back
+down to the zero mark.
 
 And now I can render the whole thing, and my results will be a
-wall-eyed stereo clip of the sequence.
+cross-eyed stereo clip of the sequence.
 
-And for a cross-eyed clip we still want the left **eye** view to run
-behind by a little, it's just that the left-eye view is now on the
-*right*, which means we now need to offset the clip on the right to
-run 90 milliseconds (or FIXME frames) *later* than the right-eye
-view (which is is now on the left).
 
-Other than that, it's exactly the same procedure. Crop, offset, cut,
-render.
+<!-- .slide: data-background-iframe="https://www.youtube.com/embed/ffeLyJHD8C8?enablejsapi=1&modestbranding=1&rel=0&loop=1&playlist=ffeLyJHD8C8" data-autoplay data-timing="120" -->
+## Crossview drone footage <!-- .element class="hidden" -->
 
+<!-- Note -->
 And that's how you get 3D footage of flying along a Brazilian beach
 with a view of the jungle, with just a single camera!
