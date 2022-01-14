@@ -17,9 +17,13 @@ such a camera (only specific ones, though).
 
 
 ![Panasonic Lumix 12.5mm f/12 3D G Lens](images/lumix_3d_g.png)  
-Panasonic Lumix 12.5mm f/12 3D G Lens (Panasonic)
+*Panasonic Lumix 12.5mm f/12 3D G Lens*
+
+hypostereoscopic (10mm stereo distance) <!-- .element class="fragment" -->
 
 <!-- Note -->
+*Photo credit: Panasonic*
+
 Now this is a discontinued product, but you can still buy it used on
 your favourite second-hand photography equipment web site and you can
 use it just like any other prime lens with autofocus and auto-exposure
@@ -41,20 +45,28 @@ for shooting, say, stereoscopic portraits.
 
 
 ![Loreo 3D Lens In A Cap 9005B](images/loreo_9005b.png)  
-Loreo 3D Lens In A Cap 9005B (Loreo Asia Ltd.)
+*Loreo 3D Lens In A Cap 9005B*
+
+roughly isostereoscopic (90mm stereo distance) <!-- .element class="fragment" -->
 
 <!-- Note -->
+*Photo credit: Loreo Asia Ltd.*
+
 Then, there is this device which is a manual lens --- meaning you need
 to pull focus --- but which produces a much more naturally
 stereoscopic image with a 90mm stereoscopic distance. That makes the
-image slightly **hyperstereoscopic,** meaning the depth effect is
-slightly more pronounced than it naturally would be.
+image roughly **isostereoscopic,** meaning the depth effect roughly
+matches our natural stereo distance.
 
 
 ![Kúla Deeper lens attachment](images/kula_deeper.png)  
-Kúla Deeper (Kúla 3D Ltd)
+*Kúla Deeper*
+
+slightly hyperstereoscopic (~100mm stereo distance) <!-- .element class="fragment" -->
 
 <!-- Note -->
+*Photo credit:  (Kúla 3D Ltd)*
+
 Up next are mirror lens attachments. Now be warned, this is where it
 gets really bulky, and what you can see here is a thing called the
 Kúla Deeper, made in Iceland. If anyone's watching from Iceland, hæ
@@ -65,11 +77,11 @@ all at 45-degree angles to the plane of the sensor, so the path of the
 light is deflected, twice, at 90-degree angles. And in a way it just
 offsets the light hitting the left half of your sensor a little
 further to the left, and the light hitting the right half of the
-sensor a little further to the right. And what you end up with is
-again a slightly hyperstereoscopic image. Here the effective
-stereoscopic distance varies somewhat based on the focal length of
-the lens that you attach this to, and the amount of cropping you have
-to do in post-production.
+sensor a little further to the right. And what you end up with is a
+slightly hyperstereoscopic image. Here the effective stereoscopic
+distance varies somewhat based on the focal length of the lens that
+you attach this to, and the amount of cropping you have to do in
+post-production.
 
 And now this is something I bought purely out of curiosity, to see
 how it would work with my camera, and the answer is: not too

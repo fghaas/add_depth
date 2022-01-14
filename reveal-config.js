@@ -17,6 +17,7 @@ Reveal.initialize({
     showNotes: true,
 
     transition: 'fade',
+    preloadIframes: true,
 
     totalTime: 43*60,
 

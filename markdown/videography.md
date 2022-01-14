@@ -54,34 +54,47 @@ How many frames distance between your left eye and right eye?
 
 1m/s lateral motion = 1mm/ms <!-- .element class="fragment" -->
 
+1 frame = 20 mm lateral motion <!-- .element class="fragment" -->
+
 4 frames = 80 mm lateral motion <!-- .element class="fragment" -->
 
 <!-- Note -->
 Consider that our natural stereoscopic distance is just about 70
-millimeters. So if we're shooting video at 50 frames per second, every
-frame is one-fiftieth of a second, or 20 milliseconds in
-duration. Thus, if we're moving perpendicular to the direction of
-view, at even 1 meter per second, which is roughly the speed of a
-leisurely walk, 1 frame covers about 20 millimeters in sideways
-motion. Thus, if we duplicate our stream and then offset one of them
-by 4 frames, we've achieved an effective stereoscopic distance of
-80mm.
+millimeters. 
+
+* So if we're shooting video at 50 frames per second, every frame is
+  one-fiftieth of a second, or 20 milliseconds in duration.
+
+* Thus, if we're moving perpendicular to the direction of view, at
+  even 1 meter per second, which is roughly the speed of a leisurely
+  walk, that of course means we're moving at 1 millimeter per
+  millisecond.
+
+* So that means that 1 frame covers about 20 millimeters in sideways
+  motion.
+
+* Thus, if we duplicate our stream, put them side by side and then
+  offset one of them by 4 frames (80 ms), we've achieved an effective
+  stereoscopic distance of 80mm.
 
 
 50 fps = 20ms / frame
 
-10m/s lateral motion = 10mm/ms <!-- .element class="fragment" -->
+10m/s lateral motion = 10mm/ms
 
-1 frames = 200 mm lateral motion <!-- .element class="fragment" -->
+1 frame = 200 mm lateral motion <!-- .element class="fragment" -->
 
 5 frames = 1 m lateral motion <!-- .element class="fragment" -->
 
 <!-- Note -->
 If instead we're doing a speed of 10 m/s, which you can totally
-achieve on a bicycle or a drone, then even a single-frame offset gives
-you a stereoscopic distance of 200mm, which makes the video solidly
-hyperstereoscopic. Use a 5-frame offset and you get a nice "giant
-eye's view" with a one-metre stereo distance.
+achieve on a bicycle or a drone, then 
+
+* even a single-frame offset gives you a stereoscopic distance of
+  200mm, which makes the video solidly hyperstereoscopic.
+
+* a 5-frame offset gets you a nice "giant eye's view" with a
+  one-metre stereo distance.
 
 And this becomes especially interesting when you're doing either
 linear drone flight along a roughly linear feature --- say a coastline
