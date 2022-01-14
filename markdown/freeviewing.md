@@ -40,26 +40,54 @@ So what I have here is a print of a stereogram. It's the same image as
 the one I showed you earlier with the stereoscope, just blown up a bit
 because that makes things easier to demonstrate. Left-eye image on the
 left, right-eye image on the right, just like with the one I put into
-the stereoscope earlier. I'm going to put the image up here on my
-little makeshift easel, and I'll use the two sticks here to illustrate
-where I'm looking.
+the stereoscope earlier.
+
+
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/37/Autostereogram_normal_vergence.svg" data-background-size="contain" -->
+## Normal vergence <!-- .element class="hidden" -->
+
+<!-- Note -->
+*Image credit:* [Wikimedia Commons user
+“Wgn”](https://commons.wikimedia.org/wiki/User:Wgn), [CC-BY-SA
+3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), source:
+<https://commons.wikimedia.org/wiki/File:Autostereogram_normal_vergence.svg>
 
 So, if I now just look at this print like I normally would, my
 vergence and accommodation points both sit right on the surface of the
-print. In other words, if I were to illustrate two straight lines from
+print. 
+
+(In this graphic, the dashed line is the surface, the dots are the
+eyes, the converging lines are my lines of sight that meet at my
+vergence point, and the arrow represents my accommodation, that is the
+plane whose distance I set my eyes to.)
+
+In other words, if I were to illustrate two straight lines from
 both my eyes toward the point I'm looking at, it would look like
 this. And that's what my eyes do naturally.
 
+
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9a/Autostereogram_wall-eyed_vergence.svg" data-background-size="contain" -->
+## Wall-eyed vergence <!-- .element class="hidden" -->
+
+<!-- Note -->
+*Image credit:* Wikimedia Commons users
+[“Wgn”](https://commons.wikimedia.org/wiki/User:Wgn) and
+[“Hyacynth”](https://commons.wikimedia.org/wiki/User:Hyacinth),
+[CC-BY-SA
+3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), source:
+<https://upload.wikimedia.org/wikipedia/commons/9/9a/Autostereogram_wall-eyed_vergence.svg>
+
 However, that's not to say that my eyes must converge on that spot, of
-course. They can converge anywhere. Right now I'm looking at the
-camera lens, now I'm looking at a tree trunk over there, now I'm
-looking at the ground in front of me. So what I can do here is this:
-instead of looking at the surface of the print, I'm looking at an
-imaginary spot **behind** the print. And if I do this just right, if
-you look at it from this angle, my left eye is looking at the left
-image, and my right eye is looking at the right image. And what I
-actually see now is **one** image that overlaps, is made from both
-these source images, and, magically, has depth.
+course. They can converge anywhere. So what I can do here is this:
+instead of looking at the surface of the print, I can look at an
+imaginary spot **behind** the print, *while maintaining* my
+accomodation as it was before. 
+
+And if you do this just right, if you look at it from this angle, your
+left eye is looking at the left image, and your right eye is looking at
+the right image. And what you actually see now is **one** image that
+overlaps, is made from both these source images, and, magically, has
+depth.
 
 
 <!-- .slide: data-background-image="https://live.staticflickr.com/65535/51819527905_3e6600d79f_5k_d.jpg" data-background-size="contain" data-timing="120" -->
@@ -95,17 +123,25 @@ sounds more complicated, but is easier to do in practice
 So with that let's go ahead to the other method, namely **cross-eyed
 stereoscopic freeviewing,** or cross-view. Here's how this works.
 
-Here is the cross-view version of the same picture. You might not
-notice the difference straight away, but what's happened here is that
-the two images are swapped. In other words, now it's the left-eye
-image that's on the *right,* and the right-eye image that's on the
-*left.*
+
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Autostereogram_cross-eyed_vergence.svg" data-background-size="contain" -->
+## Cross-eyed vergence <!-- .element class="hidden" -->
+
+<!-- Note -->
+*Image credit:* Wikimedia Commons users
+[“Wgn”](https://commons.wikimedia.org/wiki/User:Wgn) and
+[“Hyacynth”](https://commons.wikimedia.org/wiki/User:Hyacinth),
+[CC-BY-SA
+3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), source:
+<https://commons.wikimedia.org/wiki/File:Autostereogram_cross-eyed_vergence.svg>
 
 So how do we view this? You're probably already guessing that if in a
 wall-eyed image our vergence point is *behind* the print, in a
 cross-eyed image it's *in front of* the print. So it looks like
-this. And of course that means that my right eye is now looking at the
-left half of the print, and my left eye is looking at the right
+this.
+
+And of course that means that your right eye is now looking at the
+left half of the print, and your left eye is looking at the right
 half. And the interesting bit about this is that that is **easier**
 for a lot of people to voluntarily do -- and like I said, that very
 much includes myself.
