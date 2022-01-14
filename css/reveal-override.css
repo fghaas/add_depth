@@ -35,3 +35,7 @@ body:after {
 .reveal .fragment .current-fragment {
   opacity: 1 !important;
 }
+
+.reveal .small {
+  font-size: small;
+}
