@@ -61,3 +61,30 @@ images and videos, good luck!
 ## Thanks to Adolfo <!-- .element class="hidden" -->
 
 Special thanks to **Adolfo Brandes** for the drone footage.
+
+
+<!-- .slide: data-timing="5" -->
+## Image credits
+
+Wikimedia Commons user
+[“Wgn”](https://commons.wikimedia.org/wiki/User:Wgn), [CC-BY-SA
+3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), source:
+<https://commons.wikimedia.org/wiki/File:Autostereogram_normal_vergence.svg>
+<!-- .element class="small" -->
+
+Wikimedia Commons users
+[“Wgn”](https://commons.wikimedia.org/wiki/User:Wgn) and
+[“Hyacynth”](https://commons.wikimedia.org/wiki/User:Hyacinth),
+[CC-BY-SA 3
+.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), source:
+<https://commons.wikimedia.org/wiki/File:Autostereogram_wall-eyed_vergence.svg>
+<!-- .element class="small" -->
+
+Wikimedia Commons users
+[“Wgn”](https://commons.wikimedia.org/wiki/User:Wgn) and
+[“Hyacynth”](https://commons.wikimedia.org/wiki/User:Hyacinth),
+[CC-BY-SA
+3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), source:
+<https://commons.wikimedia.org/wiki/File:Autostereogram_cross-eyed_vergence.svg>
+<!-- .element class="small" -->
+
