@@ -62,7 +62,7 @@ matches our natural stereo distance.
 ![Kúla Deeper lens attachment](images/kula_deeper.png)  
 *Kúla Deeper*
 
-slightly hyperstereoscopic (~100mm stereo distance) <!-- .element class="fragment" -->
+slightly hyperstereoscopic (~105mm stereo distance) <!-- .element class="fragment" -->
 
 <!-- Note -->
 *Photo credit:  (Kúla 3D Ltd)*
